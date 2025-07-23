@@ -128,8 +128,3 @@ MIT License – use, modify, and share with attribution!
 “May all lost dogs find their way home.”
 
 ---
-
-Let me know if you want:
-- A version that includes curl/Postman examples
-- A GUI or website frontend README version
-- Deployment instructions for Docker or cloud
